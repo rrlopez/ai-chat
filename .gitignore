@@ -1,0 +1,6 @@
+mongo_data/
+n8n_data/
+n8n_db_data/
+rocketchat_data/
+
+.env.*
