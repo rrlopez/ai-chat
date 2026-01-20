@@ -121,9 +121,3 @@ docker-compose up -d
 * **Check Logs:** `docker-compose logs -f`
 * **Stop All:** `docker-compose down` (Note: Volumes will be preserved).
 * **Reset Database:** To completely wipe data, you must delete the external volumes: `docker volume rm [volume_name]`.
-
-```
-
-Would you like me to help you create a script that automates the creation of all these `.env` files?
-
-```
